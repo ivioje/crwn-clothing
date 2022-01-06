@@ -23,7 +23,6 @@ function App() {
               ...snapShot.data()
              });
         });
-
       } else {
         setCurrentUser(userAuth);
       }
